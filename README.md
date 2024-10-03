@@ -3,9 +3,10 @@
 1. Install Terraform
 2. Install Azure CLI
 3. Login into your Azure using Azure CLI
-4. Initialize using ```terraform init```
-5. Check the plan ```terraform plan```
-6. To start creating use ```terraform apply```
+4. Change subscription_id on main.tf and change vars.tf to your need
+5. Initialize using ```terraform init```
+6. Check the plan ```terraform plan```
+7. To start creating use ```terraform apply```
 
 <hr>
 <br><br><br>
