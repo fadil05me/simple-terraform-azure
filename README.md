@@ -25,14 +25,9 @@ sudo apt update && sudo apt install terraform
 
 <img src="https://github.com/fadil05me/devops20-dumbways-AhmadFadillah/assets/45775729/47fbbe5a-0946-4a63-a2a6-94ce81e7f60f" width="70%"/>
 
-## Buat Script Terraform Untuk Microsoft Azure
+## Install Azure CLI
 
-Dengan mengikuti [dokumentasi resmi](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs) yang ada.
-
-Untuk scriptnya saya sudah buat, dan bisa dilihat [DISINI](https://github.com/fadil05me/devops20-dumbways-AhmadFadillah/tree/main/stage2/week3/Terraform).
-
-
-Selanjutnya, Install Azure CLI di ubuntu dengan menjalankan command berikut atau untuk OS yang lainnya [DISINI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt):
+Install Azure CLI di ubuntu dengan menjalankan command berikut atau untuk OS yang lainnya [DISINI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt):
 ```
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ```
